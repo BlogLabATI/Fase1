@@ -1,0 +1,10 @@
+Feature: Browse articles
+ So that I can browse through the articles
+ As a visitor
+ I want to be able to choose an article from a full list of articles and read it
+
+ Scenario: Browsing a list of articles
+   Given an article with the title "La respuesta a todas las preguntas" And an article with the title "Nuevo lorem ipsum"
+   When I am on the articles page
+   Then I should see "La respuesta a todas las preguntas" And I should see "Nuevo lorem ipsum"
+
