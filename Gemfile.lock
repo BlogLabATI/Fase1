@@ -124,6 +124,3 @@ DEPENDENCIES
   selenium-client (>= 1.2.18)
   sqlite3-ruby
   webrat (>= 0.7.2)
-
-METADATA
-  version: 1.0.6
