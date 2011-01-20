@@ -9,3 +9,921 @@ REQUESTING PAGE: GET /articles with {} and HTTP headers {}
 REQUESTING PAGE: GET /articles with {} and HTTP headers {}
 REQUESTING PAGE: GET /articles with {} and HTTP headers {}
 REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/articles"}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET http://www.example.com/articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"No more hello world!", "body"=>"default", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"No more hello world!", "body"=>"default", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"No more hello world!", "body"=>"default", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"spam spam spam", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"Hello world!", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/new with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: POST /articles with {"utf8"=>"\xE2\x9C\x93", "article"=>{"title"=>"", "body"=>"", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/new"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"No more hello world!", "body"=>"default", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
+REQUESTING PAGE: GET /articles with {} and HTTP headers {}
+REQUESTING PAGE: GET /articles/1 with {} and HTTP headers {"HTTP_REFERER"=>"/articles"}
+REQUESTING PAGE: GET /articles/1/edit with {} and HTTP headers {"HTTP_REFERER"=>"/articles/1"}
+REQUESTING PAGE: POST /articles/1 with {"utf8"=>"\xE2\x9C\x93", "_method"=>"put", "article"=>{"title"=>"Hello world!", "body"=>"este no es el body original", "date(1i)"=>"2011", "date(2i)"=>"1", "date(3i)"=>"20", "autor"=>""}, "commit"=>"Guardar"} and HTTP headers {"HTTP_REFERER"=>"/articles/1/edit"}
