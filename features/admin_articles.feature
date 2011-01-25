@@ -7,21 +7,21 @@ Feature: Administer articles
     Given there is no article with the title "Hello world!"
     And I am on the articles page
     When I follow "Agregar articulo"
-    And I fill in "title" with "Hello world!"
-    And I fill in "body" with "spam spam spam"
+    And I fill in "article_title" with "Hello world!"
+    And I fill in "article_body" with "spam spam spam"
     And I press "Guardar"
     Then I should be on the article show page for "Hello world!"
     And I should see "El articulo ha sido guardado"
     And I should see "Hello world!"
     And I should see "spam spam spam"
-    And I should see "Volver a arti­culos"
+    And I should see "Volver a articulos"
     And I should see "Hello world!" on the articles list
 
   Scenario: Adding an article with a duplicate title
     Given an article with the title "Hello world!"
     And I am on the articles page
     When I follow "Agregar articulo"
-    And I fill in "title" with "Hello world!"
+    And I fill in "article_title" with "Hello world!"
     And I press "Guardar"
     And I should not see "El articulo ha sido guardado"
 
@@ -45,7 +45,7 @@ Feature: Administer articles
     And I am on the articles page
     When I follow "Hello world!"
     And I follow "Editar"
-    And I fill in "title" with "No more hello world!"
+    And I fill in "article_title" with "No more hello world!"
     And I press "Guardar"
     Then I should be on the article show page for "No more hello world!"
     And I should see "El articulo ha sido actualizado"
@@ -58,7 +58,7 @@ Feature: Administer articles
     And I am on the articles page
     When I follow "Hello world!"
     And I follow "Editar"
-    And I fill in "body" with "este no es el body original"
+    And I fill in "article_body" with "este no es el body original"
     And I press "Guardar"
     Then I should be on the article show page for "Hello world!"
     And I should see "El articulo ha sido actualizado"

@@ -16,4 +16,4 @@ Feature: Browse articles
    And I follow "La respuesta a todas las preguntas"
    Then I should see "La respuesta a todas las preguntas" 
    And I should see "no hay tal cosa" 
-   And I should see "Volver a artículos"
+   And I should see "Volver a articulos"
