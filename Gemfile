@@ -30,7 +30,7 @@ group :development, :test do
   gem 'rspec', '>= 2.1.0'
   gem 'cucumber-rails', '>= 0.3.2'
   gem 'cucumber', '>= 0.9.4'
-  gem 'webrat', '>= 0.7.2'
+  gem 'capybara'
   gem 'database_cleaner', '>=0.5.2'
   gem 'selenium-client', '>=1.2.18'
   gem 'heroku', '>=1.16.2'
