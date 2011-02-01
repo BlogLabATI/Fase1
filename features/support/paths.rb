@@ -10,7 +10,16 @@ module NavigationHelpers
 
     when /the home\s?page/
       '/'
-
+      
+    when /login/
+      '/usuarios/sign_in'
+      
+    when /the articles page/
+      '/articles'
+      
+    when /articles page/
+      '/'
+    
     when /the article show page for "(.+)"/
       article_path(Article.find_by_title($1))
 
