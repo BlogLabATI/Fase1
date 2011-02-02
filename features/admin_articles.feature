@@ -81,3 +81,4 @@ Scenario: Editing the title of an article with blank
     Then I should be on the article show page for "Hello world!"
     And I should not see "El articulo ha sido actualizado"
 
+
