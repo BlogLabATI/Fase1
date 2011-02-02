@@ -70,3 +70,14 @@ Feature: Administer articles
     And I should see "El articulo ha sido actualizado"
     And I should see "este no es el body original"
 
+Scenario: Editing the title of an article with blank
+    Given an article with the title "Hello world!"
+    And I am authenticated
+    And I am on the articles page
+    When I follow "Hello world!"
+    And I follow "Editar"
+    And I fill in "article_title" with ""
+    And I press "Guardar"
+    Then I should be on the article show page for "Hello world!"
+    And I should not see "El articulo ha sido actualizado"
+

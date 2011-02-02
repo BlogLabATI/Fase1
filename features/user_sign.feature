@@ -20,12 +20,18 @@ Feature: User authentication
     Given I am not an authenticated
     When I follow "Agregar articulo"
     Then I should be on login
-    
- Scenario: Browsing a list of articles
-   Given I am not an authenticated
-   And I should be on the article show page for "No more hello world!"
-   When I follow "Eliminar"
-   Then I should be on login
-    
-    
+        
+  Scenario: Eliminate an Article as not an authenticated
+    Given an article with the title "La respuesta a todas las preguntas" and the content "no hay tal cosa"
+    And I am not an authenticated
+    And I follow "La respuesta a todas las preguntas"
+    When I follow "Eliminar"
+    Then I should be on login
+        
+  Scenario: Edit an Article as not an authenticated
+    Given an article with the title "La respuesta a todas las preguntas" and the content "no hay tal cosa"
+    And I am not an authenticated
+    And I follow "La respuesta a todas las preguntas"
+    When I follow "Editar"
+    Then I should be on login
    

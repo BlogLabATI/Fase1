@@ -1,7 +1,7 @@
 --- 
 Cucumber Features: 
   :original_result: 
-    /home/julioj/clon2/Fase1/app/models/usuario.rb: 
+    /home/keyla/Escritorio/blogativ1/app/models/usuario.rb: 
     - 1
     - 
     - 
@@ -11,23 +11,17 @@ Cucumber Features:
     - 
     - 1
     - 
-    /home/julioj/clon2/Fase1/app/controllers/application_controller.rb: 
+    /home/keyla/Escritorio/blogativ1/app/controllers/application_controller.rb: 
     - 1
     - 1
     - 
-    /home/julioj/clon2/Fase1/app/helpers/application_helper.rb: 
+    /home/keyla/Escritorio/blogativ1/app/helpers/application_helper.rb: 
     - 1
     - 
-    /home/julioj/clon2/Fase1/app/helpers/articles_helper.rb: 
+    /home/keyla/Escritorio/blogativ1/app/helpers/articles_helper.rb: 
     - 1
     - 
-    /home/julioj/clon2/Fase1/app/models/article.rb: 
-    - 1
-    - 1
-    - 1
-    - 1
-    - 
-    /home/julioj/clon2/Fase1/app/controllers/articles_controller.rb: 
+    /home/keyla/Escritorio/blogativ1/app/controllers/articles_controller.rb: 
     - 1
     - 
     - 
@@ -35,22 +29,22 @@ Cucumber Features:
     - 
     - 
     - 1
-    - 21
+    - 24
     - 
-    - 21
-    - 21
-    - 21
+    - 24
+    - 24
+    - 24
     - 
     - 
     - 
     - 
     - 
     - 1
-    - 7
+    - 10
     - 
-    - 7
-    - 7
-    - 7
+    - 10
+    - 10
+    - 10
     - 
     - 
     - 
@@ -66,7 +60,7 @@ Cucumber Features:
     - 
     - 
     - 1
-    - 2
+    - 3
     - 
     - 
     - 
@@ -88,15 +82,15 @@ Cucumber Features:
     - 
     - 
     - 1
-    - 2
+    - 3
     - 
-    - 2
-    - 2
+    - 3
+    - 3
     - 4
     - 2
     - 
-    - 0
-    - 0
+    - 2
+    - 1
     - 
     - 
     - 
@@ -113,4 +107,10 @@ Cucumber Features:
     - 
     - 
     - 
-  :created_at: 2011-02-01 11:34:15.463572 -04:30
+    /home/keyla/Escritorio/blogativ1/app/models/article.rb: 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+  :created_at: 2011-02-02 09:40:43.240427 -04:30

@@ -152,6 +152,3 @@ DEPENDENCIES
   selenium-client (>= 1.2.18)
   simplecov
   sqlite3-ruby
-
-METADATA
-  version: 1.0.6
